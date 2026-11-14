@@ -1,1 +1,1 @@
-Introduction to boostrap and how to use it 
+Introduction to boostrap.
